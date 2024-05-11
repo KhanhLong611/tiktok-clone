@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/KhanhLong611/tiktok-client
+[submodule "server"]
+	path = server
+	url = https://github.com/KhanhLong611/tiktok-server
