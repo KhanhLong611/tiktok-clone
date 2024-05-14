@@ -1,12 +1,12 @@
+**Note:** This web application is not yet optimized for mobile devices and smaller screens. For the best experience, we recommend viewing it on a laptop with a larger screen.
+
 # TikTok Clone Project
 
 This project is a clone of the popular TikTok app. It consists of two main components: a client-side web application (`tiktok-client`) and a server-side API (`tiktok-server`).
 
 The main goal of the project is to learn and practice Web Development skills that require knowledge of different technologies such as HTML, CSS, Javascript, ReactJs, NodeJs, MongoDB, etc.
 
-This project is still in development and more features will be implemented in the future, as well as error fixing and performance improvement.
-
-**Note:** This web application is not yet optimized for mobile devices and smaller screens. For the best experience, we recommend viewing it on a laptop with a larger screen.
+This project is STILL in development and more features will be implemented in the future, as well as error fixing and performance improvement.
 
 ## Viewing Recommendations
 
@@ -19,7 +19,7 @@ There are currently a few things you can do on this web application project:
 
 1. Sign up, and log in with your account.
 2. Reset your password with a reset token sent through email (currently NOT available since I'm using Mailtrap.io instead of a paid service for email sending).
-3. Render a list of random videos or of the users you are following.
+3. Watch a list of random videos or of the users you are following.
 4. Like a video.
 5. Comment on a video.
 6. Save a video to your favorite list.
@@ -33,10 +33,10 @@ There are currently a few things you can do on this web application project:
 1. Responsive layout.
 2. Notification.
 3. Messaging.
-4. Login with Facebook, Google, etc with Firebase authentication.
-5. Users' stories.
-6. Server-side media optimization.
-7. Billing and payment.
+4. Video's view count tracking.
+5. Login with Facebook, Google, etc with Firebase authentication.
+6. Users' stories.
+7. Server-side media optimization.
 8. Content based on geopositioning.
 9. ... and many more.
 
